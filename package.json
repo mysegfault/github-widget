@@ -2,7 +2,7 @@
   "name": "github-card",
   "version": "1.2.1",
   "description": "A widget showing your github details that you can easily embed in your portfolio website.",
-  "main": "widget.js",
+  "main": "dist/widget.js",
   "scripts": {
     "test": "firefox src/test.html",
     "build": "uglifyjs src/widget.js > dist/widget.js"
